@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/adityalawand7/Summary-Result-Design))
+- Live Site URL: (https://adityalawand7.github.io/Summary-Result-Design/)
 
 ## My process
 
@@ -93,5 +93,4 @@ In this, I used only HTML and CSS which made it a static website. In the future,
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Aditya Dadasaheb Lawand
